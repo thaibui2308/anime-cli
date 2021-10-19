@@ -8,17 +8,9 @@ Instead of playing the selected episodes using mpv, I just play them straight in
 # Quick Start 🚀
 ```bash
 git clone https://github.com/thaibui2308/anime-cli.git
-```
-```bash
 cd anime-cli
-```
-```bash
 go get -d ./...
-```
-```bash
 go run main.go
-```
-```bash
 go install
 ```
 

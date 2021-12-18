@@ -3,7 +3,6 @@ module github.com/thaibui2308/anime-cli
 go 1.17
 
 require (
-	github.com/adrg/libvlc-go/v2 v2.1.4
 	github.com/briandowns/spinner v1.16.0
 	github.com/fatih/color v1.7.0
 	github.com/gocolly/colly v1.2.0
